@@ -1,2 +1,2 @@
 # FirstSwiftUIApp
-Testing first SwiftUI repo from Pradeilles 
+Testing first SwiftUI repo from Pradeilles.
